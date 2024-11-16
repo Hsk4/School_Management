@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcP5L4kXSQAN49HN+A7zN6get32BVtGol20Fnt3049Y8l/1r58U0jGbD9O0HEGo6T7xZcTg0KOa1gPDkiR1xuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\web.APTECHTR\\source\\repos\\SchoolManagement\\SchoolManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\web.APTECHTR\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\web.APTECHTR\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\web.APTECHTR\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\web.APTECHTR\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\web.APTECHTR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\web.APTECHTR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
